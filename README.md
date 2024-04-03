@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/regafian_" target="blank"><img src="https://img.shields.io/twitter/follow/regafian_?logo=twitter&style=for-the-badge" alt="regafian_" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and React**
+- 🌱 I’m currently learning **Flutter and Kotlin**
 
 - 💬 Ask me about **Flutter**
 
