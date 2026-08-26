@@ -35,6 +35,3 @@
 <li>🚀 CI/CD pipelines for Flutter via GitHub Actions</li>
 <li>🛒 App Store / Play Store compliance, including in-app purchase flows</li>
 </ul>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arigafiandanu&show_icons=true&theme=merko&locale=en&layout=compact" alt="arigafiandanu" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arigafiandanu&show_icons=true&theme=tokyonight&locale=en" alt="arigafiandanu" /></p>
