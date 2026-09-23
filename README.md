@@ -31,7 +31,6 @@
 <ul>
 <li>🏗️ Clean Architecture across production Flutter apps</li>
 <li>👥 Code standards, PR review, and release process</li>
-<li>🔐 Mobile app security (OWASP MASVS/MASTG) & Indonesian data-privacy compliance (UU PDP)</li>
 <li>🚀 CI/CD pipelines for Flutter via GitHub Actions</li>
 <li>🛒 App Store / Play Store compliance, including in-app purchase flows</li>
 </ul>
